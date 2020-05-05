@@ -1,0 +1,55 @@
+title: Joseph A. Diodato
+#author: GitHub User
+email: jadiodato@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+ Helping organizations to tell data driven stories. 
+google_analytics: UA-155301874-1
+
+show_excerpts: true # set to false to hide excerpts on the homepage
+future: false # hides future dated posts from live website 
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: joe_diodato
+    github:  jdiodato
+    linkedin: jdiodato
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- blog.md
+- artifacts.md
+- resources.md
+- projects.md
+- services.md
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

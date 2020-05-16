@@ -12,7 +12,7 @@ layout: page
 
 **Hello! My name is Joe Diodato.**
 
-I am a recent graduate of [Indiana University](https://www.indiana.edu/), where earned my M.S.Ed. in [higher education and student affairs](https://education.indiana.edu/programs/higher-education-and-student-affairs.html). I am on the job market, and am interested in a variety of entry-level higher education and student affairs positions in New York City.
+I am a recent graduate of [Indiana University](https://www.indiana.edu/), where earned my M.S.Ed. in [higher education and student affairs](https://education.indiana.edu/programs/higher-education-and-student-affairs.html). I am currently on the job market to obtain an entry-level position in the field of higher education and student affairs in New York City. 
 
 **Please click [here](https://github.com/jdiodato/jdiodato.github.io/raw/master/files/diodato-resume.pdf) to download a copy of my resume in PDF form.**
 

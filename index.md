@@ -10,7 +10,7 @@ layout: page
 
 <img align="right" src="https://github.com/jdiodato/jdiodato.github.io/raw/master/files/circle-cropped.png" style="float" width="35%">
 
-**Hello! My name is Joe Diodato.**
+## Hello! My name is Joe Diodato.
 
 I am a recent graduate of [Indiana University](https://www.indiana.edu/), where earned my M.S.Ed. in [higher education and student affairs](https://education.indiana.edu/programs/higher-education-and-student-affairs.html). I am currently on the job market to obtain an entry-level position in the field of higher education and student affairs in New York City. 
 

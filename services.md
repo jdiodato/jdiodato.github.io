@@ -3,8 +3,6 @@ layout: page
 title: Services
 permalink: /services/
 ---
-## Tutoring • Technical Writing 
-
 From tutoring secondary school students to supporting the written and digital needs of local organizations, I am happy to offer the services outlined below. All services are available locally in New York City, or remotely via video conferencing software. If you are interested in inquiring about my services, please contact me at jadiodato@gmail.com. I'd be delighted to hear from you!
 
 ### Tutoring 

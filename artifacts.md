@@ -5,7 +5,7 @@ permalink: /artifacts/
 order: 3
 ---
 
-*Please pardon the digital dust! I am in the process of uploading the files outlined below, as well as some blog posts that I need to import from my previous Wordpress site. - Joe (1/3/2020)*
+*Please pardon the digital dust! I am in the process of uploading the files outlined below, as well as some blog posts that I need to import from my previous Wordpress site. - Joe (5/15/2020)*
 
 Below you will find examples of my work, from both in and outside the classroom. All documents are available for download as a PDF file. In addition, I hope that you will consider checking out my [GitHub profile](https://github.com/jdiodato). If you're not familiar with the platform it's essentially a public Google/Drive for computer code that has some pretty amazing version control features.
 

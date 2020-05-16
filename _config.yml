@@ -44,9 +44,8 @@ minima:
 header_pages:
 - blog.md
 - artifacts.md
-- resources.md
-- projects.md
 - services.md
+
 # Build settings
 theme: minima
 

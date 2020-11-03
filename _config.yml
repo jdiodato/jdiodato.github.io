@@ -5,6 +5,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
  Helping organizations to tell data driven stories. 
 google_analytics: UA-155301874-1
 
+markdown: kramdown
+
 show_excerpts: true # set to false to hide excerpts on the homepage
 future: false # hides future dated posts from live website 
 
